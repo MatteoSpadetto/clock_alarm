@@ -1,0 +1,644 @@
+EESchema Schematic File Version 4
+LIBS:clock-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Clock"
+Date "12/10/2019"
+Rev "0.0.0"
+Comp "LightsFX"
+Comment1 "Spadetto Matteo"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 9-1437565-9:9-1437565-9 U1
+U 1 1 5DA1DADD
+P 2950 4650
+F 0 "U1" H 3127 4696 50  0000 L CNN
+F 1 "9-1437565-9" H 3127 4605 50  0000 L CNN
+F 2 "9-1437565-9:FSMRACD" H 2950 4650 50  0001 L BNN
+F 3 "TE Connectivity" H 2950 4650 50  0001 L BNN
+F 4 "None" H 2950 4650 50  0001 L BNN "Field4"
+F 5 "50 mA" H 2950 4650 50  0001 L BNN "Field5"
+F 6 "Single Pole - Single Throw" H 2950 4650 50  0001 L BNN "Field6"
+F 7 "9-1437565-9" H 2950 4650 50  0001 L BNN "Field7"
+F 8 "Unavailable" H 2950 4650 50  0001 L BNN "Field8"
+F 9 "Switch Tactile OFF _ON_ SPST Square Button PC Pins 0.05A 12VDC 0.98N Thru-Hole Loose Piece" H 2950 4650 50  0001 L BNN "Field9"
+F 10 "9-1437565-9" H 2950 4650 50  0001 L BNN "Field10"
+F 11 "None" H 2950 4650 50  0001 L BNN "Field11"
+F 12 "https://www.te.com/usa-en/product-9-1437565-9.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 2950 4650 50  0001 L BNN "Field12"
+F 13 "Compliant" H 2950 4650 50  0001 L BNN "Field13"
+	1    2950 4650
+	-1   0    0    1   
+$EndComp
+$Comp
+L 9-1437565-9:9-1437565-9 U2
+U 1 1 5DA1DCF4
+P 2950 3500
+F 0 "U2" H 3127 3546 50  0000 L CNN
+F 1 "9-1437565-9" H 3127 3455 50  0000 L CNN
+F 2 "9-1437565-9:FSMRACD" H 2950 3500 50  0001 L BNN
+F 3 "TE Connectivity" H 2950 3500 50  0001 L BNN
+F 4 "None" H 2950 3500 50  0001 L BNN "Field4"
+F 5 "50 mA" H 2950 3500 50  0001 L BNN "Field5"
+F 6 "Single Pole - Single Throw" H 2950 3500 50  0001 L BNN "Field6"
+F 7 "9-1437565-9" H 2950 3500 50  0001 L BNN "Field7"
+F 8 "Unavailable" H 2950 3500 50  0001 L BNN "Field8"
+F 9 "Switch Tactile OFF _ON_ SPST Square Button PC Pins 0.05A 12VDC 0.98N Thru-Hole Loose Piece" H 2950 3500 50  0001 L BNN "Field9"
+F 10 "9-1437565-9" H 2950 3500 50  0001 L BNN "Field10"
+F 11 "None" H 2950 3500 50  0001 L BNN "Field11"
+F 12 "https://www.te.com/usa-en/product-9-1437565-9.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 2950 3500 50  0001 L BNN "Field12"
+F 13 "Compliant" H 2950 3500 50  0001 L BNN "Field13"
+	1    2950 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L 9-1437565-9:9-1437565-9 U3
+U 1 1 5DA1DDEE
+P 2950 2450
+F 0 "U3" H 3127 2496 50  0000 L CNN
+F 1 "9-1437565-9" H 3127 2405 50  0000 L CNN
+F 2 "9-1437565-9:FSMRACD" H 2950 2450 50  0001 L BNN
+F 3 "TE Connectivity" H 2950 2450 50  0001 L BNN
+F 4 "None" H 2950 2450 50  0001 L BNN "Field4"
+F 5 "50 mA" H 2950 2450 50  0001 L BNN "Field5"
+F 6 "Single Pole - Single Throw" H 2950 2450 50  0001 L BNN "Field6"
+F 7 "9-1437565-9" H 2950 2450 50  0001 L BNN "Field7"
+F 8 "Unavailable" H 2950 2450 50  0001 L BNN "Field8"
+F 9 "Switch Tactile OFF _ON_ SPST Square Button PC Pins 0.05A 12VDC 0.98N Thru-Hole Loose Piece" H 2950 2450 50  0001 L BNN "Field9"
+F 10 "9-1437565-9" H 2950 2450 50  0001 L BNN "Field10"
+F 11 "None" H 2950 2450 50  0001 L BNN "Field11"
+F 12 "https://www.te.com/usa-en/product-9-1437565-9.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 2950 2450 50  0001 L BNN "Field12"
+F 13 "Compliant" H 2950 2450 50  0001 L BNN "Field13"
+	1    2950 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L 1-1625873-4:1-1625873-4 R1
+U 1 1 5DA1E922
+P 2400 4950
+F 0 "R1" H 2400 5156 50  0000 C CNN
+F 1 "10K" H 2400 5065 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2400 4950 50  0001 L BNN
+F 3 "Compliant with Exemptions" H 2400 4950 50  0001 L BNN
+F 4 "5%" H 2400 4950 50  0001 L BNN "Field4"
+F 5 "1-1625873-4" H 2400 4950 50  0001 L BNN "Field5"
+F 6 "RS 0402 1% RESISTOR KIT" H 2400 4950 50  0001 L BNN "Field6"
+F 7 "https://www.te.com/usa-en/product-1-1625873-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 2400 4950 50  0001 L BNN "Field7"
+F 8 "Unavailable" H 2400 4950 50  0001 L BNN "Field8"
+F 9 "1-1625873-4" H 2400 4950 50  0001 L BNN "Field9"
+F 10 "0805" H 2400 4950 50  0001 L BNN "Field10"
+F 11 "TE Connectivity" H 2400 4950 50  0001 L BNN "Field11"
+F 12 ".125 W" H 2400 4950 50  0001 L BNN "Field12"
+F 13 "150 V" H 2400 4950 50  0001 L BNN "Field13"
+F 14 "None" H 2400 4950 50  0001 L BNN "Field14"
+	1    2400 4950
+	-1   0    0    1   
+$EndComp
+$Comp
+L 1-1625873-4:1-1625873-4 R2
+U 1 1 5DA1EA40
+P 2400 3800
+F 0 "R2" H 2400 4006 50  0000 C CNN
+F 1 "10K" H 2400 3915 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2400 3800 50  0001 L BNN
+F 3 "Compliant with Exemptions" H 2400 3800 50  0001 L BNN
+F 4 "5%" H 2400 3800 50  0001 L BNN "Field4"
+F 5 "1-1625873-4" H 2400 3800 50  0001 L BNN "Field5"
+F 6 "RS 0402 1% RESISTOR KIT" H 2400 3800 50  0001 L BNN "Field6"
+F 7 "https://www.te.com/usa-en/product-1-1625873-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 2400 3800 50  0001 L BNN "Field7"
+F 8 "Unavailable" H 2400 3800 50  0001 L BNN "Field8"
+F 9 "1-1625873-4" H 2400 3800 50  0001 L BNN "Field9"
+F 10 "0805" H 2400 3800 50  0001 L BNN "Field10"
+F 11 "TE Connectivity" H 2400 3800 50  0001 L BNN "Field11"
+F 12 ".125 W" H 2400 3800 50  0001 L BNN "Field12"
+F 13 "150 V" H 2400 3800 50  0001 L BNN "Field13"
+F 14 "None" H 2400 3800 50  0001 L BNN "Field14"
+	1    2400 3800
+	-1   0    0    1   
+$EndComp
+$Comp
+L 1-1625873-4:1-1625873-4 R3
+U 1 1 5DA1EBA7
+P 2400 2750
+F 0 "R3" H 2400 2956 50  0000 C CNN
+F 1 "10K" H 2400 2865 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2400 2750 50  0001 L BNN
+F 3 "Compliant with Exemptions" H 2400 2750 50  0001 L BNN
+F 4 "5%" H 2400 2750 50  0001 L BNN "Field4"
+F 5 "1-1625873-4" H 2400 2750 50  0001 L BNN "Field5"
+F 6 "RS 0402 1% RESISTOR KIT" H 2400 2750 50  0001 L BNN "Field6"
+F 7 "https://www.te.com/usa-en/product-1-1625873-4.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 2400 2750 50  0001 L BNN "Field7"
+F 8 "Unavailable" H 2400 2750 50  0001 L BNN "Field8"
+F 9 "1-1625873-4" H 2400 2750 50  0001 L BNN "Field9"
+F 10 "0805" H 2400 2750 50  0001 L BNN "Field10"
+F 11 "TE Connectivity" H 2400 2750 50  0001 L BNN "Field11"
+F 12 ".125 W" H 2400 2750 50  0001 L BNN "Field12"
+F 13 "150 V" H 2400 2750 50  0001 L BNN "Field13"
+F 14 "None" H 2400 2750 50  0001 L BNN "Field14"
+	1    2400 2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x04_Female J3
+U 1 1 5DA1F715
+P 8600 2050
+F 0 "J3" H 8628 2026 50  0000 L CNN
+F 1 "Conn_01x04_Female_7seg4d" H 8628 1935 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 8600 2050 50  0001 C CNN
+F 3 "~" H 8600 2050 50  0001 C CNN
+	1    8600 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x08_Female J5
+U 1 1 5DA1FA67
+P 8600 3600
+F 0 "J5" H 8628 3576 50  0000 L CNN
+F 1 "Conn_01x08_Female_IMU" H 8628 3485 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical" H 8600 3600 50  0001 C CNN
+F 3 "~" H 8600 3600 50  0001 C CNN
+	1    8600 3600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5DA23652
+P 2000 4450
+F 0 "#PWR0102" H 2000 4200 50  0001 C CNN
+F 1 "GND" V 2005 4277 50  0000 C CNN
+F 2 "" H 2000 4450 50  0001 C CNN
+F 3 "" H 2000 4450 50  0001 C CNN
+	1    2000 4450
+	0    1    1    0   
+$EndComp
+$Comp
+L Connector:Conn_01x03_Female J6
+U 1 1 5DA25A9E
+P 8600 4500
+F 0 "J6" H 8628 4526 50  0000 L CNN
+F 1 "Conn_01x03_Female_Pixel" H 8628 4435 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 8600 4500 50  0001 C CNN
+F 3 "~" H 8600 4500 50  0001 C CNN
+	1    8600 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5DA265C9
+P 2000 3300
+F 0 "#PWR0105" H 2000 3050 50  0001 C CNN
+F 1 "GND" V 2005 3127 50  0000 C CNN
+F 2 "" H 2000 3300 50  0001 C CNN
+F 3 "" H 2000 3300 50  0001 C CNN
+	1    2000 3300
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2000 4950 2200 4950
+Wire Wire Line
+	2600 4950 2950 4950
+Wire Wire Line
+	2950 4950 2950 4850
+Wire Wire Line
+	2000 3800 2200 3800
+Wire Wire Line
+	2600 3800 2950 3800
+Wire Wire Line
+	2950 3800 2950 3700
+Wire Wire Line
+	2000 2750 2200 2750
+Wire Wire Line
+	2600 2750 2950 2750
+Wire Wire Line
+	2950 2750 2950 2650
+Wire Wire Line
+	2000 4450 2850 4450
+Wire Wire Line
+	2000 3300 2850 3300
+Wire Wire Line
+	2000 2250 2850 2250
+Wire Wire Line
+	2950 3300 2850 3300
+Connection ~ 2850 3300
+Wire Wire Line
+	2950 2250 2850 2250
+Connection ~ 2850 2250
+Wire Wire Line
+	2950 4450 2850 4450
+Connection ~ 2850 4450
+$Comp
+L Connector:Conn_01x02_Female J7
+U 1 1 5DA3297F
+P 8600 5000
+F 0 "J7" H 8628 4976 50  0000 L CNN
+F 1 "Conn_01x02_Female_PW" H 8628 4885 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 8600 5000 50  0001 C CNN
+F 3 "~" H 8600 5000 50  0001 C CNN
+	1    8600 5000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 5DA33171
+P 8400 3400
+F 0 "#PWR0107" H 8400 3150 50  0001 C CNN
+F 1 "GND" V 8405 3272 50  0000 R CNN
+F 2 "" H 8400 3400 50  0001 C CNN
+F 3 "" H 8400 3400 50  0001 C CNN
+	1    8400 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR0108
+U 1 1 5DA331CA
+P 8400 3300
+F 0 "#PWR0108" H 8400 3150 50  0001 C CNN
+F 1 "+5V" V 8415 3428 50  0000 L CNN
+F 2 "" H 8400 3300 50  0001 C CNN
+F 3 "" H 8400 3300 50  0001 C CNN
+	1    8400 3300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8400 4500 8050 4500
+Wire Wire Line
+	8050 4500 8050 4000
+Wire Wire Line
+	8050 4000 7000 4000
+Text Label 7400 4000 0    50   ~ 0
+DI
+$Comp
+L power:GND #PWR0112
+U 1 1 5DA33E45
+P 8400 5100
+F 0 "#PWR0112" H 8400 4850 50  0001 C CNN
+F 1 "GND" V 8405 4972 50  0000 R CNN
+F 2 "" H 8400 5100 50  0001 C CNN
+F 3 "" H 8400 5100 50  0001 C CNN
+	1    8400 5100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4700 2400 4700 3900
+Wire Wire Line
+	4700 3900 5400 3900
+Wire Wire Line
+	8400 3500 7900 3500
+Wire Wire Line
+	7900 3500 7900 2900
+Wire Wire Line
+	7900 2900 7000 2900
+Text Label 7400 2900 0    50   ~ 0
+SCL
+Wire Wire Line
+	8400 3600 7800 3600
+Wire Wire Line
+	7800 3600 7800 3200
+Wire Wire Line
+	7800 3200 7000 3200
+Text Label 7400 3200 0    50   ~ 0
+SDA
+Text Label 4800 3900 0    50   ~ 0
+BUZZER+
+$Comp
+L power:GND #PWR0114
+U 1 1 5DA3679E
+P 8400 2150
+F 0 "#PWR0114" H 8400 1900 50  0001 C CNN
+F 1 "GND" V 8405 2022 50  0000 R CNN
+F 2 "" H 8400 2150 50  0001 C CNN
+F 3 "" H 8400 2150 50  0001 C CNN
+	1    8400 2150
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR0115
+U 1 1 5DA36803
+P 8400 2250
+F 0 "#PWR0115" H 8400 2100 50  0001 C CNN
+F 1 "+5V" V 8415 2378 50  0000 L CNN
+F 2 "" H 8400 2250 50  0001 C CNN
+F 3 "" H 8400 2250 50  0001 C CNN
+	1    8400 2250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5400 4000 4600 4000
+Wire Wire Line
+	4600 4000 4600 2050
+Wire Wire Line
+	4600 2050 8400 2050
+Text Label 6200 2050 0    50   ~ 0
+DIO
+Wire Wire Line
+	5400 3800 4800 3800
+Wire Wire Line
+	4800 3800 4800 1950
+Wire Wire Line
+	4800 1950 8400 1950
+Text Label 6200 1950 0    50   ~ 0
+CLK
+Wire Wire Line
+	5400 2900 3500 2900
+Wire Wire Line
+	3500 2900 3500 2750
+Wire Wire Line
+	3500 2750 2950 2750
+Connection ~ 2950 2750
+Wire Wire Line
+	5400 3100 3500 3100
+Wire Wire Line
+	3500 3100 3500 3800
+Wire Wire Line
+	3500 3800 2950 3800
+Connection ~ 2950 3800
+Wire Wire Line
+	5400 3200 3600 3200
+Wire Wire Line
+	3600 3200 3600 4950
+Wire Wire Line
+	3600 4950 2950 4950
+Connection ~ 2950 4950
+Text Label 3900 2900 0    50   ~ 0
+BTN_PLUS
+Text Label 3900 3100 0    50   ~ 0
+BTN_MINUS
+Text Label 3900 3200 0    50   ~ 0
+BTN_OK
+$Comp
+L power:+5V #PWR0116
+U 1 1 5DA3D065
+P 5400 4200
+F 0 "#PWR0116" H 5400 4050 50  0001 C CNN
+F 1 "+5V" V 5415 4328 50  0000 L CNN
+F 2 "" H 5400 4200 50  0001 C CNN
+F 3 "" H 5400 4200 50  0001 C CNN
+	1    5400 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 5DA3D0D6
+P 5400 4100
+F 0 "#PWR0117" H 5400 3850 50  0001 C CNN
+F 1 "GND" V 5405 3972 50  0000 R CNN
+F 2 "" H 5400 4100 50  0001 C CNN
+F 3 "" H 5400 4100 50  0001 C CNN
+	1    5400 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0118
+U 1 1 5DA3D140
+P 7000 4100
+F 0 "#PWR0118" H 7000 3850 50  0001 C CNN
+F 1 "GND" V 7005 3972 50  0000 R CNN
+F 2 "" H 7000 4100 50  0001 C CNN
+F 3 "" H 7000 4100 50  0001 C CNN
+	1    7000 4100
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector:Conn_01x15_Female J2
+U 1 1 5DA3DE12
+P 6800 3500
+F 0 "J2" H 6694 2575 50  0000 C CNN
+F 1 "Conn_01x15_Female_ESP32" H 6694 2666 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 6800 3500 50  0001 C CNN
+F 3 "~" H 6800 3500 50  0001 C CNN
+	1    6800 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x15_Female J1
+U 1 1 5DA43BA6
+P 5600 3500
+F 0 "J1" H 5494 2575 50  0000 C CNN
+F 1 "Conn_01x15_Female_ESP32" H 5494 2666 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical" H 5600 3500 50  0001 C CNN
+F 3 "~" H 5600 3500 50  0001 C CNN
+	1    5600 3500
+	1    0    0    1   
+$EndComp
+NoConn ~ 7000 2800
+NoConn ~ 7000 3000
+NoConn ~ 7000 3100
+NoConn ~ 7000 3300
+NoConn ~ 7000 3400
+NoConn ~ 7000 3500
+NoConn ~ 7000 3600
+NoConn ~ 7000 3700
+NoConn ~ 7000 3800
+NoConn ~ 7000 3900
+NoConn ~ 5400 2800
+NoConn ~ 5400 3000
+NoConn ~ 5400 3300
+NoConn ~ 5400 3400
+NoConn ~ 5400 3500
+NoConn ~ 5400 3600
+NoConn ~ 5400 3700
+NoConn ~ 8400 3700
+NoConn ~ 8400 3800
+NoConn ~ 8400 3900
+NoConn ~ 8400 4000
+$Comp
+L power:GND #PWR0106
+U 1 1 5DA5AB03
+P 2000 2250
+F 0 "#PWR0106" H 2000 2000 50  0001 C CNN
+F 1 "GND" V 2005 2122 50  0000 R CNN
+F 2 "" H 2000 2250 50  0001 C CNN
+F 3 "" H 2000 2250 50  0001 C CNN
+	1    2000 2250
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2850 4850 2850 4450
+Wire Wire Line
+	2850 3700 2850 3300
+Wire Wire Line
+	2850 2650 2850 2250
+$Comp
+L power:+5V #PWR0111
+U 1 1 5DA33DD4
+P 8400 5000
+F 0 "#PWR0111" H 8400 4850 50  0001 C CNN
+F 1 "+5V" V 8415 5128 50  0000 L CNN
+F 2 "" H 8400 5000 50  0001 C CNN
+F 3 "" H 8400 5000 50  0001 C CNN
+	1    8400 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR0110
+U 1 1 5DA33AA9
+P 8400 4400
+F 0 "#PWR0110" H 8400 4250 50  0001 C CNN
+F 1 "+5V" V 8415 4528 50  0000 L CNN
+F 2 "" H 8400 4400 50  0001 C CNN
+F 3 "" H 8400 4400 50  0001 C CNN
+	1    8400 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 5DA33A50
+P 8400 4600
+F 0 "#PWR0109" H 8400 4350 50  0001 C CNN
+F 1 "GND" V 8405 4472 50  0000 R CNN
+F 2 "" H 8400 4600 50  0001 C CNN
+F 3 "" H 8400 4600 50  0001 C CNN
+	1    8400 4600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8050 2400 4700 2400
+$Comp
+L power:GND #PWR0113
+U 1 1 5DA51433
+P 8050 2600
+F 0 "#PWR0113" H 8050 2350 50  0001 C CNN
+F 1 "GND" V 8055 2472 50  0000 R CNN
+F 2 "" H 8050 2600 50  0001 C CNN
+F 3 "" H 8050 2600 50  0001 C CNN
+	1    8050 2600
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Buzzer BZ1
+U 1 1 5DA53B81
+P 8150 2500
+F 0 "BZ1" H 8303 2529 50  0000 L CNN
+F 1 "Buzzer" H 8303 2438 50  0000 L CNN
+F 2 "Buzzer_Beeper:Buzzer_12x9.5RM7.6" V 8125 2600 50  0001 C CNN
+F 3 "~" V 8125 2600 50  0001 C CNN
+	1    8150 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C1
+U 1 1 5DA55C14
+P 7050 5050
+F 0 "C1" V 7165 5096 50  0000 L CNN
+F 1 "1uF" V 7165 5005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7088 4900 50  0001 C CNN
+F 3 "~" H 7050 5050 50  0001 C CNN
+	1    7050 5050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+5V #PWR0119
+U 1 1 5DA55D48
+P 6900 5050
+F 0 "#PWR0119" H 6900 4900 50  0001 C CNN
+F 1 "+5V" V 6915 5178 50  0000 L CNN
+F 2 "" H 6900 5050 50  0001 C CNN
+F 3 "" H 6900 5050 50  0001 C CNN
+	1    6900 5050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0120
+U 1 1 5DA55D7D
+P 7200 5050
+F 0 "#PWR0120" H 7200 4800 50  0001 C CNN
+F 1 "GND" V 7205 4922 50  0000 R CNN
+F 2 "" H 7200 5050 50  0001 C CNN
+F 3 "" H 7200 5050 50  0001 C CNN
+	1    7200 5050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3.3V #PWR0101
+U 1 1 5DA574D4
+P 7000 4200
+F 0 "#PWR0101" H 7000 4050 50  0001 C CNN
+F 1 "+3.3V" V 7015 4328 50  0000 L CNN
+F 2 "" H 7000 4200 50  0001 C CNN
+F 3 "" H 7000 4200 50  0001 C CNN
+	1    7000 4200
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+3.3V #PWR0103
+U 1 1 5DA598D5
+P 2000 4950
+F 0 "#PWR0103" H 2000 4800 50  0001 C CNN
+F 1 "+3.3V" V 2015 5078 50  0000 L CNN
+F 2 "" H 2000 4950 50  0001 C CNN
+F 3 "" H 2000 4950 50  0001 C CNN
+	1    2000 4950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3.3V #PWR0104
+U 1 1 5DA59988
+P 2000 3800
+F 0 "#PWR0104" H 2000 3650 50  0001 C CNN
+F 1 "+3.3V" V 2015 3928 50  0000 L CNN
+F 2 "" H 2000 3800 50  0001 C CNN
+F 3 "" H 2000 3800 50  0001 C CNN
+	1    2000 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:+3.3V #PWR0121
+U 1 1 5DA599AF
+P 2000 2750
+F 0 "#PWR0121" H 2000 2600 50  0001 C CNN
+F 1 "+3.3V" V 2015 2878 50  0000 L CNN
+F 2 "" H 2000 2750 50  0001 C CNN
+F 3 "" H 2000 2750 50  0001 C CNN
+	1    2000 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0122
+U 1 1 5DA5A616
+P 7500 5500
+F 0 "#PWR0122" H 7500 5250 50  0001 C CNN
+F 1 "GND" V 7505 5372 50  0000 R CNN
+F 2 "" H 7500 5500 50  0001 C CNN
+F 3 "" H 7500 5500 50  0001 C CNN
+	1    7500 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R_US R4
+U 1 1 5DA5A76C
+P 7050 5500
+F 0 "R4" V 7255 5500 50  0000 C CNN
+F 1 "330" V 7164 5500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" V 7090 5490 50  0001 C CNN
+F 3 "~" H 7050 5500 50  0001 C CNN
+	1    7050 5500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5DA5A824
+P 7350 5500
+F 0 "D1" H 7341 5716 50  0000 C CNN
+F 1 "LED" H 7341 5625 50  0000 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7350 5500 50  0001 C CNN
+F 3 "~" H 7350 5500 50  0001 C CNN
+	1    7350 5500
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+5V #PWR0123
+U 1 1 5DA5E15F
+P 6900 5500
+F 0 "#PWR0123" H 6900 5350 50  0001 C CNN
+F 1 "+5V" V 6915 5628 50  0000 L CNN
+F 2 "" H 6900 5500 50  0001 C CNN
+F 3 "" H 6900 5500 50  0001 C CNN
+	1    6900 5500
+	0    -1   -1   0   
+$EndComp
+$EndSCHEMATC
